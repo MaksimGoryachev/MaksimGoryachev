@@ -5,8 +5,8 @@ Python Developer
 Education ...
 * 🌍  I'm based in Ufa, Russia
 * 🖥️  See my portfolio at [https://github.com/MaksimGoryachev](http://github.com/MaksimGoryachev)
-* 🚀  I'm currently working on [App - Task Manager](http://github.com/MaksimGoryachev)
-* 🧠  I'm learning a new framework - Bootstrap
+* 🚀  I'm currently working on [App - Task Manager](https://github.com/MaksimGoryachev/python-project-52/tree/main)
+* 🧠  I am currently studying tools for containerization and orchestration when working with containers - Docker, Docker-compose.
 * 🤝  I'm open to collaborating on fun and interesting python projects
 * ⚡  In my free time I do tourism and geology
 
